@@ -1,0 +1,10 @@
+# Py-V Assembler
+
+This project was used as a learning task to get more intimate with RISC-V and what an assembler does.
+It is by no means complete, does not even have pseudo instructions.
+
+Has the bare minimumm to spit out the same binary for a simple sum calculation in assembly.
+
+#+BEGIN_SRC
+python3 main.py ./assembly/sum.S
+#+END_SRC
